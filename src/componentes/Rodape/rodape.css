@@ -1,0 +1,11 @@
+#rodape {
+    margin-top: 20px;
+    display: flex;
+    width: 350px;
+    justify-content: center;
+}
+
+#rodape__texto {
+    font-size: 15px;
+    justify-content: center;
+}
